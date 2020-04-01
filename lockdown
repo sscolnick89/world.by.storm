@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body{font-family:monospace; background-color: rgb(232, 199, 232);}
+            .tab { margin-left: 40px;}
+            .tab {margin-right: 40px;}
+            .tab { text-indent:40px }
+            #ya-cunt {background-color: black; color:rgb(232, 199, 232);}
+            em {font-size:1.5em;background-color: black; color:rgb(232, 199, 232);}
+        </style>
+    </head>
+    <body>
+        
+        <h1>world.by.storm's Covid-19 Lockdown Blog</h1>
+
+        <h3>Content</h3>
+        <ul>
+            <li><a href="#an-uncertain-future"> Uncertain Future</a></li>
+            <li><a href="#batman"> Batman</a></li>
+        </ul>
+        <h3></h3>
+        <h2 id="an-uncertain-future">An Uncertain Future</h2>
+        <h6>Posted on 30-03-20</h6>
+        
+        <p class="tab">Its not the end of the world, but it is the end of many things in our way of life. developed society was always standing on the edge of a cliff, a fragile balancing act in a place where most thought there was a guardrail. In our arrogance we we forgot was life was like over the edge. Above the long list of things I've taken for granted for sure the biggest one was <em class="em"> Certainty</em>. We tread now in a place where we havent been as a world in a very long time.</p>
+    <p class="tab"> This virus and its cascading effects has taken away anyones abiltity to plan or invest time, money, and effort into a task and estimate have any type of payoff. The scope of a 5 year plan shrunk down to day to day in the period it took someone to figure out the world will never be the same and we cant be sure what it will look like. 
+</p>
+<p class="tab"> Any plans that I made of travelling NZ, going home for the summer to see my family, moving to Montreal, working in contruction while I retrain, has all been put on hold indefinatly. At the moment I dont even know when it will be possible to get back to my own country or what it might look like if I could even get there, dont know when it will be possible to leave lockdown, possible to feed ourselves next week, possible to even take my next breath. But what keeps me moving is that even though we've left a <em class="em">world behind</em> we will walk into a <em class="em">new one... </em> 
+</p>
+         <h2 id="batman">Batman</h2>
+         <h6>Posted on 30-03-20</h6>
+         <p id="ya-cunt" class="tab">you just had to eat that fucking bat didn't ya cunt<p>
+         
+        
+    </body>
+</html>
